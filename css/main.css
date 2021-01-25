@@ -1708,9 +1708,5 @@ section.active {
 		font-size: 14px;
 	}
 	
-    /*=========== Blog ============*/
-	.blog .post .post-content .post-date,
-	.blog .post .post-content .post-title h4 {
-		font-size: 14px;
-	}
+
 }
